@@ -16,7 +16,7 @@ This project focuses on developing a machine learning model for classifying Iris
 - **`README.md`**: Project documentation and overview (you are here).
 
 ## Dependencies
--Python 3.x
--Jupyter Notebook
--Libraries: pandas, scikit-learn, matplotlib, seaborn
+-**Python 3.x**
+-**Jupyter Notebook**
+-**Libraries: pandas, scikit-learn, matplotlib, seaborn**
 
