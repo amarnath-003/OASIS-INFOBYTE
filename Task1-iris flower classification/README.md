@@ -5,7 +5,7 @@ This project focuses on developing a machine learning model for classifying Iris
 ## Project Overview
 
 - **Objective:** Build a classification model to predict the species of Iris flowers.
-- **Dataset:** The Iris dataset was sourced from <a href=https://www.kaggle.com/datasets/uciml/iris /a>
+- **Dataset:** The Iris dataset was sourced from https://www.kaggle.com/datasets/uciml/iris 
 - **Model:** Decision Tree Classifier was chosen for its initial simplicity and interpretability.
 - **Evaluation Metric:** The model achieved an accuracy of 95% on the test set.
 
